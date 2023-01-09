@@ -17,3 +17,7 @@ In this project, we did the following:
 * Generated predictions on our trained model.
 
 It took around 3 hours to train our model and get 87% accuracy.
+
+Total cost of the project came to $34.74 where most of the cost came from training the model using AutoML. The training failed a few times which resulted in consumption of more credits. 
+
+Different approaches were tried before we decided to use AutoML. Another approach we had explored was using Managed Notebooks on Vertex AI. We faced a couple of issues using this method.  
